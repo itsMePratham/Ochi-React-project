@@ -1,0 +1,20 @@
+@font-face {
+    font-family: chacha ;
+    src: url(../fonts/NeueMontreal.ttf);
+}
+
+.headings
+{
+    font-family: chacha;
+}
+
+.Aboutmiddle
+{
+    font-family: chacha;
+    font-size: 1.1vw; 
+}
+
+.ApproachDiv 
+{
+    font-family: chacha;
+}

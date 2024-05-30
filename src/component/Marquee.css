@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: chacha ;
+    src: url("../fonts/FoundersGrotesk.ttf");
+}
+
+
+.MarqueeText
+{
+    font-family: chacha;
+}

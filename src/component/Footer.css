@@ -1,0 +1,20 @@
+@font-face {
+    font-family: grotexx ;
+    src: url('../fonts/FoundersGrotesk.ttf');
+}
+
+@font-face {
+    font-family: neuee;
+    src: url('../fonts/NeueMontreal.ttf');
+}
+
+.FooterHeading
+{
+    font-family: grotexx;
+}
+
+.content
+{
+    font-family: neuee;
+    font-size: 1.2vw;
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family:chacha ;
+    src: url(../fonts/NeueMontreal.ttf);
+}
+
+.featuredClass
+{
+    font-family: chacha;
+}

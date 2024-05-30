@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Neue';
+    src: url('../fonts/NeueMontreal.ttf') format('truetype');
+  }
+
+.navdiv
+{
+   font-family: Neue;
+}

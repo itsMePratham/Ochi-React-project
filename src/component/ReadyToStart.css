@@ -1,0 +1,13 @@
+
+  @font-face {
+    font-family: chachaji;
+    src: url("../fonts/FoundersGrotesk.ttf");
+  }
+
+
+
+.headingText
+{
+   
+    font-family: chachaji;
+}
